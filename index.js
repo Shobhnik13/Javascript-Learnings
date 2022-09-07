@@ -10,3 +10,4 @@ console.log(true);
 console.log({shobhnik:'this',marks:90})
 console.table({shobhnik:'this',marks:90})
 console.timeEnd('time taken by code')
+console.assert(23==25,'wrong')//23 is not equal to 25 so it will throw wrong
