@@ -28,4 +28,14 @@ console.log(abc.toFixed(20),(typeof abc))
 //to fixed ==> abc.tofixed(value)  will help to put the numbers after decimal of the assigned value-CAN BE USED IN ECCOMERCE PRICE SECTION
 
 
-//
+// type con
+let mystr='890';
+let nums=45;
+//as one is string and other is num so 
+//interpreter will convert num to string and attach to the string an dwill give output as 89045
+console.log(mystr + nums);
+
+let axy=Number('500');
+let vgh=100;
+console.log(axy+vgh);
+//now output will be 500+100 =600 bcoz we coverted string to num 
