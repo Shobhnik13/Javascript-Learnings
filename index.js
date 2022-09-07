@@ -1,0 +1,7 @@
+console.log('maa chuda')
+console.log('hey')
+console.log(14)
+console.log(12+2)
+console.log(12*2)
+console.log(23/2)
+console.warn('this is a warning')
