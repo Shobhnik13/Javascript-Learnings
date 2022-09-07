@@ -19,6 +19,13 @@ let marks={
     shobhnik:99,
     manu:9,
     vishal:8,
-    utkarsh:22
+    "utkarsh singhal":22
 }
 console.log(marks);
+//function
+function abcd(){
+}
+console.log("this is a "+(typeof abcd));
+//date
+let date=new Date();
+console.log("this is a "+ (typeof date))
